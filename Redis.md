@@ -1,4 +1,4 @@
-# Windows WSL RUN Redis
+# Redis(Linux)
 
 ## Installation
 
@@ -29,3 +29,4 @@ redis-cli ping // If it returns "PONG", the startup is successful
 ## Shut down
 
 sudo service redis-server stop
+

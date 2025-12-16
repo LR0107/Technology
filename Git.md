@@ -1,4 +1,4 @@
-# Git Quick Start Guide
+# Git
 
 ## 1. Download and Install Git
 
@@ -72,3 +72,4 @@ Pull remote updates:
 Clone a repository:
 
 `git clone https://github.com/team/project.git`
+

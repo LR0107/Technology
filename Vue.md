@@ -1,4 +1,4 @@
-# Node.js (Windows)
+# Vue (Windows)
 
 ## 1. Install Node.js
 
@@ -34,3 +34,4 @@ Copy the displayed URL and open it in a browser.
 Stop the server:
 
 `Ctrl + C`
+

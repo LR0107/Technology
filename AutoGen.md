@@ -100,4 +100,4 @@ python main.py
 
 1. **GraphFlow** — Custom workflow orchestration
   
-2. **AutoStudio** — Web-based interface
+2. **Autogen Studio** — Web-based interface
